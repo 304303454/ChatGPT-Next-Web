@@ -266,7 +266,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "有什么可以帮你的吗",
+    BotHello: "这是我个人搭建的chatgpt，目前只能使用3.5系列（资金有限，有钱了一定换4.0）。有什么不会的直接点开微信，tell me",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
